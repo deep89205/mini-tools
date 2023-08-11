@@ -1,4 +1,12 @@
 ![image](https://github.com/deep89205/CODSOFT/assets/140511777/344d33e6-ac87-44ac-8f34-b46fbb3275be)
 
 
-This is simple cpp projects I did during my codsoft internship Task 1 is a number guessing game :A program that generates a random number and asks the user to guess it. Provide feedback on whether the guess is too high or too low until the user guesses the correct number. Task 2 is a Simple Calculator :A calculator program that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. Allow the user to input two numbers and choose an operation to perform. Task 3 is word count program:A program that counts the number of words in a given text file. Prompt the user to enter the file name and display the total word count.
+THESE ARE CPP PROJECTS I DID DURING MY CODESOFT INTERNSHIP
+Task 1: Number Guessing Game
+Create an interactive number guessing game program. The program generates a random number and challenges the user to guess it. It provides real-time feedback on whether the guessed number is too high or too low. The user keeps guessing until they correctly identify the generated number.
+
+Task 2: Simple Calculator
+Develop a basic calculator program that handles essential arithmetic operations - addition, subtraction, multiplication, and division. The user inputs two numbers and selects an operation to perform. The program then calculates and displays the result of the chosen operation.
+
+Task 3: Word Count Program
+Design a program to analyze the word count in a specified text file. The program prompts the user to provide the file name and then calculates and displays the total number of words present in the text file
