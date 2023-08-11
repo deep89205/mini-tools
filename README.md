@@ -2,6 +2,7 @@
 
 
 THESE ARE CPP PROJECTS I DID DURING MY CODESOFT INTERNSHIP
+
 Task 1: Number Guessing Game
 Create an interactive number guessing game program. The program generates a random number and challenges the user to guess it. It provides real-time feedback on whether the guessed number is too high or too low. The user keeps guessing until they correctly identify the generated number.
 
